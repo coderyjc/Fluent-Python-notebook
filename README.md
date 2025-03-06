@@ -1,12 +1,14 @@
 # Fluent-Python-notebook
 
-<center>
-<img src="./assets/fluent-python.jpg" height="300px"></img>
-</center>
-
-<i>Fluent Python</i> code implemented by Jupyter Notebook and some notes.
+<div style="text-align: center;">
+    <img src="./assets/fluent-python.jpg" height="300px" alt="Fluent Python">
+</div>
 
 《流畅的Python》的jupyter notebook实现和一些笔记。
+
+## 环境
+
+Python 3.12.3
 
 ## 更新日志
 
